@@ -6,4 +6,5 @@ Este repositorio contiene mis archivos de configuración personalizados para i3w
 
 ```bash
 ln -s /home/luism/Plantillas/dotscachyos/picom /home/luism/.config/
+ln -s /home/luism/Plantillas/dotscachyos/alacritty /home/luism/.config
 ```
