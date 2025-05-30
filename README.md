@@ -5,5 +5,5 @@ Este repositorio contiene mis archivos de configuración personalizados para i3w
 ## Enlaces de Carpetas para mejorar mi entorno
 
 ```bash
-ln -s /home/luism/Plantillas/dotfilesco/picom /home/luism/.config/
+ln -s /home/luism/Plantillas/dotscachyos/picom /home/luism/.config/
 ```
